@@ -1,4 +1,4 @@
-# Katana
+# CATALOGO LITE
 Sistema de Tienda en Linea
 
 Características
@@ -18,4 +18,4 @@ Características
 - Controla los usuarios que tendran acceso al sistema de administración
 - Mucho mas
 
-Link: http://evilnapsis.com/2015/10/16/katana-lite-sistema-de-tienda-en-linea/
+Link:
