@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Katana Lite - Sistema de Tienda en Linea</title>
+  <title>CATALOGO-LITE - Sistema de Tienda en Linea</title>
 
   <link rel="stylesheet" type="text/css" href="res/lib/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="res/lib/font-awesome/css/font-awesome.min.css">
@@ -17,7 +17,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-3 col-xs-5">
-      <br><h1>KATANA LITE</h1>
+      <br><h1>CATALOGO-LITE</h1>
       </div>
       <div class="col-md-7 col-xs-5">
 <br><br>
@@ -113,10 +113,9 @@ $client = ClientData::getById($_SESSION["client_id"]);
 <div class="row">
 <div class="col-md-12">
 <hr>
-<p><b>Katana Lite</b> &copy; 2016</p>
+<p><b>CATALOGO-LITE</b> &copy; 2018</p>
 <ul class="list-inline">
-<li><p class="text-muted"> <a href="http://evilnapsis.com/">Evilnapsis</a></p></li>
-<li><p class="text-muted"> <a href="http://evilnapsis.com/support/katana-documentation/">Documentacion</a></p></li>
+<li><p class="text-muted"> <a href="#">S_V S.A.</a></p></li>
 </ul>
 </div>
 </div>

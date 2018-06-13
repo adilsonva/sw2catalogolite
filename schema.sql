@@ -204,7 +204,7 @@ create table configuration(
 	cfg_id int default 1
 );
 
-insert into configuration(name,label,kind,val) value ("general_main_title","Titulo Principal",1,"KATANA LITE");
+insert into configuration(name,label,kind,val) value ("general_main_title","Titulo Principal",1,"CATALOGO-LITE");
 insert into configuration(name,label,kind,val) value ("general_main_email","Email Principal",1,"tuemail@tudominio.com");
 insert into configuration(name,label,kind,val) value ("general_country","Pais",1,"MX");
 insert into configuration(name,label,kind,val) value ("general_coin","Moneda",1,"$");

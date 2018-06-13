@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>.: Admin Katana Lite v2 :.</title>
+    <title>.: Admin CATALOGO-LITE  :.</title>
 
     <!-- Bootstrap core CSS -->
     <link href="res/bootstrap3/css/bootstrap.css" rel="stylesheet">
@@ -36,7 +36,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="./">KATANA LITE <sup><small><span class="label label-primary">v2</span></small></sup> </a>
+          <a class="navbar-brand" href="./">CATALOGO-LITE <sup><small><span class="label label-primary">v2</span></small></sup> </a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
